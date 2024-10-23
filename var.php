@@ -37,7 +37,7 @@ function redhawk_banner(){
   ╚═╝  ╚═╝╚══════╝╚═════╝    ###     ###   @@@     @@@      \____/\/\____/     |___| \___\
                                                                 |0\/0|
          {C} Coded By - CresencioShiro A.K.A Kristoffer        \/\/
-                                                                  \/ \e[97m [$] Shout Out - You ;)
+                                                                  \/ \e[97m [$] EDUCATIONAL PURPOSE ONLY and use it well ;)
 \e[32m
   \n";
 }
