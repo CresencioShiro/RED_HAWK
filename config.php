@@ -7,6 +7,7 @@
  -- Well in that case go and create a account in moz.com and generate your bunch of keys here: https://moz.com/products/mozscape/access
 
  PLEASE NOTE: free accounts have limitations of 27,000 calls per month which i belive is more then enough but if this falls short for you, just create a new account in moz and get a new bunch of keys and replace your old ones.
+If it didnt work well.. leave it 
 */
 
 $accessID = "put your access id in between the quotes"; // this is where you put your access ID
