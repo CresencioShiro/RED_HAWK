@@ -1,4 +1,4 @@
-This is a Part of RED HAWK
+This is a Part of RED HAWK PROJECT
 
 [ D E S C R I P T I O N ]
 
@@ -9,7 +9,7 @@ This directory contains mainly 4 files namely
 - others.ini
 - readme.txt
 
-The first three files are mendetory for the RED HAWK scanner. These files have the list of files and directories which the scanner uses for crawling.
+The first three files are mendetory for the RED/SCORE HAWK scanner. These files have the list of files and directories which the scanner uses for crawling.
 
 [ U S A G E   &   W A R N I N G S ]
 
