@@ -966,7 +966,7 @@ askscan:
                               }
                             else
                               {
-                                $tcms = $red . "Could Not Detect$cln ";
+                                $tcms = $red . "Could Not Detect >.<$cln ";
                               }
                           }
                       }
