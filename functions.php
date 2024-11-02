@@ -1,5 +1,5 @@
 <?php
-//functions for RED HAWK
+//functions for RED HAWK and SCORE HAWK
 function getTitle($url) {
   $data = readcontents($url);
   $title = preg_match('/<title[^>]*>(.*?)<\/title>/ims', $data, $matches) ? $matches[1] : null;
